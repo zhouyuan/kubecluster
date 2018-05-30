@@ -1,0 +1,13 @@
+[masters]
+master ansible_host=plana001 ansible_user=root
+
+[workers]
+worker1 ansible_host=plana002 ansible_user=root
+worker2 ansible_host=plana003 ansible_user=root
+worker3 ansible_host=plana004 ansible_user=root
+worker4 ansible_host=plana005 ansible_user=root
+worker5 ansible_host=plana006 ansible_user=root
+worker6 ansible_host=plana007 ansible_user=root
+worker7 ansible_host=plana008 ansible_user=root
+worker8 ansible_host=plana009 ansible_user=root
+

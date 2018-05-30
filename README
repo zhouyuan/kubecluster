@@ -1,0 +1,7 @@
+#ansible scripts for kubernetes setup on ubuntu
+
+- setup password-less login for root and ubuntu
+- ansible-playbook -i hosts depedency.yml
+- ansible-playbook -i hosts master.yml
+- ansible-playbook -i hosts worker.yml
+
